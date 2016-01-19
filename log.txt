@@ -1,0 +1,1 @@
+1: KamajiAppContext.class (what does .class mean).
