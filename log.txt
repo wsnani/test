@@ -1,1 +1,2 @@
-1: KamajiAppContext.class (what does .class mean?).
+1: KamajiAppContext.class; (what does .class mean?).
+2: screenshotMeApiUrl = urlExtension + "/screenshots/" + clientDataVsh.getOnlineId(); (how to find the urlExtension?).
